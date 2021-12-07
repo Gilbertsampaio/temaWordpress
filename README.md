@@ -13,7 +13,6 @@ https://www.gmeloweb.com.br/temaWordpress/
 ## Ferramentas Utilizadas
 
 - Boostrap;
-- Codeigniter 2.2.6;
 - Folha de estilo criada do zero;
 - Plugins JS;
 - Pligins materialdesignicons.css
